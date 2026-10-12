@@ -87,6 +87,22 @@ Response-time analysis, outcome tracking, and service-performance metrics for em
 
 ---
 
+## 📁 Repository Structure
+
+```
+SafeMove/
+├── README.md
+├── SafeMove_Dashboard.pbix
+├── SafeMove_Professional_Presentation.pptx
+└── screenshots/
+    ├── 01_overview.jpg
+    ├── 02_hotspots.jpg
+    ├── 03_transport_environment_severity.jpg
+    └── 04_emergency_response.jpg
+```
+
+---
+
 ## 🚀 Key Insights
 
 - **Scale:** 100K incidents logged, with a strong 91% formal reporting rate — indicating reasonably high trust in reporting channels.
@@ -101,7 +117,7 @@ Response-time analysis, outcome tracking, and service-performance metrics for em
 ## 👩‍💻 Author
 
 **Kishori J**
- BE CSE Graduate · Tirupattur, Tamil Nadu
+CS Engineering Graduate · Tirupattur, Tamil Nadu
 Built as a Power BI analytics portfolio project.
 
 ---
@@ -109,7 +125,3 @@ Built as a Power BI analytics portfolio project.
 ## 📄 License
 
 This project is shared for portfolio and educational purposes.
-
-
-
-## 📁 Repository Structure
