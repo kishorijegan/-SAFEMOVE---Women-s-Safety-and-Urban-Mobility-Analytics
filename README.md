@@ -117,7 +117,7 @@ SafeMove/
 ## 👩‍💻 Author
 
 **Kishori J**
-CS Engineering Graduate · Tirupattur, Tamil Nadu
+BE CSE Graduate · Tirupattur, Tamil Nadu
 Built as a Power BI analytics portfolio project.
 
 ---
